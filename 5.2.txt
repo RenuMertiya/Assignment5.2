@@ -1,0 +1,19 @@
+TASK 2:
+DRIVER CLASS
+ 
+MAPPER CLASS
+ 
+REDUCER CLASS
+ 
+
+LOAD THE JAR FILE and LIST
+ 
+ 
+OUTPUT
+
+ 
+TASK 3:
+ 
+ 
+
+
